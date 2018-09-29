@@ -1,14 +1,28 @@
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.deps.json
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.runtimeconfig.json
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.runtimeconfig.dev.json
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.dll
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.pdb
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.csprojAssemblyReference.cache
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.csproj.CoreCompileInputs.cache
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.RazorAssemblyInfo.cache
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.RazorAssemblyInfo.cs
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.AssemblyInfoInputs.cache
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.AssemblyInfo.cs
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.RazorTargetAssemblyInfo.cache
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.dll
-C:\projetos\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.pdb
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.deps.json
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.runtimeconfig.json
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.runtimeconfig.dev.json
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.dll
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.pdb
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.csprojAssemblyReference.cache
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.csproj.CoreCompileInputs.cache
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.RazorAssemblyInfo.cache
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.RazorAssemblyInfo.cs
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.AssemblyInfoInputs.cache
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.AssemblyInfo.cs
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.RazorTargetAssemblyInfo.cache
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.dll
+C:/projetos/RestAspNet/RestAspNet/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.pdb
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.deps.json
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.runtimeconfig.json
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.runtimeconfig.dev.json
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.dll
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/bin/Debug/netcoreapp2.1/RestAspNet.pdb
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.csprojAssemblyReference.cache
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.csproj.CoreCompileInputs.cache
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.RazorAssemblyInfo.cache
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.RazorAssemblyInfo.cs
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.AssemblyInfoInputs.cache
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.AssemblyInfo.cs
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.RazorTargetAssemblyInfo.cache
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.dll
+/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj/Debug/netcoreapp2.1/RestAspNet.pdb

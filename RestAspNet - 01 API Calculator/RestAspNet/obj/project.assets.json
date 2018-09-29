@@ -11500,30 +11500,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\n.de.campos.filho\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/nelsoncampos/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\RestAspNet\\RestAspNet\\RestAspNet\\RestAspNet.csproj",
+      "projectUniqueName": "/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/RestAspNet.csproj",
       "projectName": "RestAspNet",
-      "projectPath": "C:\\projetos\\RestAspNet\\RestAspNet\\RestAspNet\\RestAspNet.csproj",
-      "packagesPath": "C:\\Users\\n.de.campos.filho\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\RestAspNet\\RestAspNet\\RestAspNet\\obj\\",
+      "projectPath": "/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/RestAspNet.csproj",
+      "packagesPath": "/Users/nelsoncampos/.nuget/packages/",
+      "outputPath": "/Users/nelsoncampos/Documents/projetos/RestAspNet/RestAspNet - 01 API Calculator/RestAspNet/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\n.de.campos.filho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nelsoncampos/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11543,12 +11541,12 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.1, )",
-            "autoReferenced": true
+            "version": "2.1.1"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.0, )",
+            "version": "2.1.0",
             "autoReferenced": true
           }
         },

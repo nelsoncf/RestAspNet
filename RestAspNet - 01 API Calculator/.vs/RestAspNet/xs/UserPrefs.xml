@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{168DE628-3290-4483-906D-15FCD4642FD4}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestAspNet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestAspNet/Controllers/CalculatorController.cs">
+    <Files>
+      <File FileName="RestAspNet/Controllers/CalculatorController.cs" Line="60" Column="58" />
+      <File FileName="RestAspNet/Controllers/ValuesController.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

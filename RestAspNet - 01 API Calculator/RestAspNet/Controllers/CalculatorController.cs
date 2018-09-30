@@ -50,6 +50,21 @@ namespace RestAspNet.Controllers
         }
 
 
+        // GET api/calculator/operacao/fistNumber/secondNumber
+        [HttpGet("divisao/{firstNumber}/{secondNUmber}")]
+        public IActionResult Mul(string firstNumber, string secondNumber)
+        {
+
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) * ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+            return BadRequest("Invalid Input");
+
+        }
+
+
         /*
             Métodos de Validação de Numerais
         */

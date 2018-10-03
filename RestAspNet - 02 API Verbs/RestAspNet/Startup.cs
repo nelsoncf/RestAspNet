@@ -34,6 +34,8 @@ namespace RestAspNet
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
+            services.AddApiVersioning();
+
             // Injeção DEP Person Service
             services.AddScoped<IPersonService, PersonServiceImpl>();
         }

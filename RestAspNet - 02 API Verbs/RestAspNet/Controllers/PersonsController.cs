@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RestAspNet.Controllers.Models;
-using RestAspNet.Services.Implementations;
+using RestAspNet.Business;
 
 namespace RestAspNet.Controllers
 {
@@ -10,25 +10,25 @@ namespace RestAspNet.Controllers
     public class PersonsController : ControllerBase
     {
 
-        private IPersonService _personService;
+        private IPersonBusiness _personBusiness;
 
-        public PersonsController(IPersonService personService)
+        public PersonsController(IPersonBusiness personService)
         {
-            _personService = personService;
+            _personBusiness = personService;
         }
 
 
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok(_personService.FindAll());
+            return Ok(_personBusiness.FindAll());
         }
 
 
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
-            var person = _personService.FindById(id);
+            var person = _personBusiness.FindById(id);
             if (person == null) return NotFound();
             return Ok(person);
         }
@@ -38,7 +38,7 @@ namespace RestAspNet.Controllers
         public IActionResult Post([FromBody]Person person)
         {
             if (person == null) return BadRequest();
-            return new ObjectResult(_personService.Create(person));
+            return new ObjectResult(_personBusiness.Create(person));
         }
 
 
@@ -46,14 +46,14 @@ namespace RestAspNet.Controllers
         public IActionResult Put(int id, [FromBody]Person person)
         {
             if (person == null) return BadRequest();
-            return new ObjectResult(_personService.Update(person));
+            return new ObjectResult(_personBusiness.Update(person));
         }
 
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            _personService.Delete(id);
+            _personBusiness.Delete(id);
             return NoContent();
         }
     }

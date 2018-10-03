@@ -12,7 +12,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using RestAspNet.Models.Context;
-using RestAspNet.Services.Implementations;
+using RestAspNet.Business;
+using RestAspNet.Repository.Implementatios;
+using RestAspNet.Repository;
 
 namespace RestAspNet
 {
@@ -37,7 +39,8 @@ namespace RestAspNet
             services.AddApiVersioning();
 
             // Injeção DEP Person Service
-            services.AddScoped<IPersonService, PersonServiceImpl>();
+            services.AddScoped<IPersonBusiness, PersonBusinessImpl>();
+            services.AddScoped<IPersonRepository, PersonRepositoryImpl>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
